@@ -688,7 +688,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib/libnetmgrportutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libnetmgrportutils.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib/libnetmgrxfrmutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libnetmgrxfrmutils.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib/libnlnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libnlnetmgr.so \
-    vendor/xiaomi/sm8450-common/proprietary/vendor/lib/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcrypto.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib/libops.so:$(TARGET_COPY_OUT_VENDOR)/lib/libops.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib/libpasrutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpasrutils.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib/libpdmapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpdmapper.so \
@@ -1198,7 +1197,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib64/libnetmgrportutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgrportutils.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib64/libnetmgrxfrmutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgrxfrmutils.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib64/libnlnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnlnetmgr.so \
-    vendor/xiaomi/sm8450-common/proprietary/vendor/lib64/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liboemcrypto.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib64/libops.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libops.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib64/libpasrutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpasrutils.so \
     vendor/xiaomi/sm8450-common/proprietary/vendor/lib64/libpdmapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpdmapper.so \
